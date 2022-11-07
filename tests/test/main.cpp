@@ -1,7 +1,7 @@
-#include <iostream>
+﻿#include <cstdio>
 
-int main(int argc,char** argv){
-	
-	
-	return 0;
+int main()
+{
+    printf("%s 向你问好!\n", "test");
+    return 0;
 }
